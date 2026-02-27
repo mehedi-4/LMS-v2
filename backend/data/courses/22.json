@@ -1,0 +1,30 @@
+{
+  "courseId": 22,
+  "instructorId": 2,
+  "title": "Microprocessor",
+  "description": "micro",
+  "price": 10,
+  "numberOfLectures": 1,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "Lecture 1",
+      "video": {
+        "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765138028336-270883592.mp4",
+        "filename": "1765138028336-270883592.mp4",
+        "size": 1604718
+      },
+      "materials": [
+        {
+          "originalName": "screenshot-2025-11-18_17-13-27.png",
+          "mimeType": "image/png",
+          "storagePath": "/uploads/materials/1765138028340-677665316.png",
+          "filename": "1765138028340-677665316.png"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2025-12-07T20:07:08.347Z"
+}

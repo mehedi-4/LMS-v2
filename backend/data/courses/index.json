@@ -1,0 +1,1012 @@
+[
+  {
+    "courseId": 14,
+    "instructorId": 1,
+    "title": "ue ew",
+    "description": "fgslkjk ksdl ",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "adfagh g",
+        "video": {
+          "originalName": "snapsave-app_778986108505475_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764065535120-995641232.mp4",
+          "filename": "1764065535120-995641232.mp4",
+          "size": 5038148
+        },
+        "materials": [
+          {
+            "originalName": "macos-sequoia-6400x3552-17669.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1764065535136-166478285.jpg",
+            "filename": "1764065535136-166478285.jpg"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-11-25T10:12:15.158Z"
+  },
+  {
+    "courseId": 15,
+    "instructorId": 1,
+    "title": "fads ",
+    "description": "4",
+    "price": 23,
+    "numberOfLectures": 3,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "dfa",
+        "video": {
+          "originalName": "snapsave-app_778986108505475_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764065766342-885178711.mp4",
+          "filename": "1764065766342-885178711.mp4",
+          "size": 5038148
+        },
+        "materials": [
+          {
+            "originalName": "macos-sequoia-6400x3552-17665.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1764065766354-84866985.jpg",
+            "filename": "1764065766354-84866985.jpg"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "adfa dfa",
+        "video": {
+          "originalName": "snapsave-app_1225900576015944_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764065766367-154267647.mp4",
+          "filename": "1764065766367-154267647.mp4",
+          "size": 2078260
+        },
+        "materials": [
+          {
+            "originalName": "macos-sequoia-6400x3552-17674.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1764065766371-976674889.jpg",
+            "filename": "1764065766371-976674889.jpg"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 3,
+        "title": "afa adsf",
+        "video": {
+          "originalName": "snapsave-app_1225900576015944_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764065766383-724739837.mp4",
+          "filename": "1764065766383-724739837.mp4",
+          "size": 2078260
+        },
+        "materials": [
+          {
+            "originalName": "macos-sequoia-6400x3552-17666.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1764065766388-647287476.jpg",
+            "filename": "1764065766388-647287476.jpg"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-11-25T10:16:06.415Z"
+  },
+  {
+    "courseId": 16,
+    "instructorId": 1,
+    "title": "Linear Algebra",
+    "description": "sdaf ldkjf",
+    "price": 10,
+    "numberOfLectures": 2,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lec 1",
+        "video": {
+          "originalName": "snapsave-app_778986108505475_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764065891301-277412457.mp4",
+          "filename": "1764065891301-277412457.mp4",
+          "size": 5038148
+        },
+        "materials": [
+          {
+            "originalName": "Generated Image November 15, 2025 - 5_30AM.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1764065891312-943130383.png",
+            "filename": "1764065891312-943130383.png"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "adfa",
+        "video": {
+          "originalName": "snapsave-app_1225900576015944_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764065891315-626790176.mp4",
+          "filename": "1764065891315-626790176.mp4",
+          "size": 2078260
+        },
+        "materials": [
+          {
+            "originalName": "macos-sequoia-6400x3552-17666.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1764065891320-871412224.jpg",
+            "filename": "1764065891320-871412224.jpg"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-11-25T10:18:11.348Z"
+  },
+  {
+    "courseId": 17,
+    "instructorId": 2,
+    "title": "Data Structure",
+    "description": "Learn Data Structure",
+    "price": 10,
+    "numberOfLectures": 2,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "Lecture 1",
+        "video": {
+          "originalName": "snapsave-app_778986108505475_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764066765384-194735087.mp4",
+          "filename": "1764066765384-194735087.mp4",
+          "size": 5038148
+        },
+        "materials": [
+          {
+            "originalName": "wallhaven-d6j79o.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1764066765394-585411010.png",
+            "filename": "1764066765394-585411010.png"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "Lecture 2",
+        "video": {
+          "originalName": "snapsave-app_1225900576015944_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764066765397-757909584.mp4",
+          "filename": "1764066765397-757909584.mp4",
+          "size": 2078260
+        },
+        "materials": [
+          {
+            "originalName": "Generated Image November 15, 2025 - 5_30AM.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1764066765401-759763549.png",
+            "filename": "1764066765401-759763549.png"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-11-25T10:32:45.418Z"
+  },
+  {
+    "courseId": 18,
+    "instructorId": 3,
+    "title": "DBMS",
+    "description": "Database",
+    "price": 15,
+    "numberOfLectures": 3,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "Lecture 1",
+        "video": {
+          "originalName": "The 1975 - About You (Official).mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764067338412-387253569.mp4",
+          "filename": "1764067338412-387253569.mp4",
+          "size": 6618614
+        },
+        "materials": [
+          {
+            "originalName": "API-Project_251121_080310.pdf",
+            "mimeType": "application/pdf",
+            "storagePath": "/uploads/materials/1764067338427-370886803.pdf",
+            "filename": "1764067338427-370886803.pdf"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "Lecture 2",
+        "video": {
+          "originalName": "snapsave-app_778986108505475_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764067338427-221712234.mp4",
+          "filename": "1764067338427-221712234.mp4",
+          "size": 5038148
+        },
+        "materials": [
+          {
+            "originalName": "Chapter1.pdf",
+            "mimeType": "application/pdf",
+            "storagePath": "/uploads/materials/1764067338435-928858941.pdf",
+            "filename": "1764067338435-928858941.pdf"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 3,
+        "title": "Lecture 3",
+        "video": {
+          "originalName": "snapsave-app_1225900576015944_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764067338437-260486077.mp4",
+          "filename": "1764067338437-260486077.mp4",
+          "size": 2078260
+        },
+        "materials": [
+          {
+            "originalName": "pple-carplay-ios-26-4000x2182-23294.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1764067338443-763245752.jpg",
+            "filename": "1764067338443-763245752.jpg"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-11-25T10:42:18.460Z"
+  },
+  {
+    "courseId": 19,
+    "instructorId": 3,
+    "title": "Computer Acrhitechture",
+    "description": "seg",
+    "price": 10,
+    "numberOfLectures": 2,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "foreplay",
+        "video": {
+          "originalName": "snapsave-app_778986108505475_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764068505156-617651120.mp4",
+          "filename": "1764068505156-617651120.mp4",
+          "size": 5038148
+        },
+        "materials": [
+          {
+            "originalName": "macos-tahoe-26-5k-6016x6016-22672.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1764068505166-811005303.jpg",
+            "filename": "1764068505166-811005303.jpg"
+          },
+          {
+            "originalName": "Chapter1.pdf",
+            "mimeType": "application/pdf",
+            "storagePath": "/uploads/materials/1764068505180-4232921.pdf",
+            "filename": "1764068505180-4232921.pdf"
+          },
+          {
+            "originalName": "LMS.zip",
+            "mimeType": "application/zip",
+            "storagePath": "/uploads/materials/1764068505181-33495280.zip",
+            "filename": "1764068505181-33495280.zip"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "actual segs",
+        "video": {
+          "originalName": "snapsave-app_1225900576015944_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764068505279-151376627.mp4",
+          "filename": "1764068505279-151376627.mp4",
+          "size": 2078260
+        },
+        "materials": [
+          {
+            "originalName": "wallhaven-d6j79o.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1764068505282-587432232.png",
+            "filename": "1764068505282-587432232.png"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-11-25T11:01:45.299Z"
+  },
+  {
+    "courseId": 20,
+    "instructorId": 2,
+    "title": "Theory of Computation",
+    "description": "adfk adfkjl",
+    "price": 30,
+    "numberOfLectures": 2,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lec 1",
+        "video": {
+          "originalName": "The 1975 - About You (Official).mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764102817952-784615854.mp4",
+          "filename": "1764102817952-784615854.mp4",
+          "size": 6618614
+        },
+        "materials": [
+          {
+            "originalName": "Generated Image November 15, 2025 - 5_30AM.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1764102817976-899334832.png",
+            "filename": "1764102817976-899334832.png"
+          },
+          {
+            "originalName": "ios-26-apple-4000x2182-23300.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1764102817981-326488434.jpg",
+            "filename": "1764102817981-326488434.jpg"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "lec 2",
+        "video": {
+          "originalName": "snapsave-app_778986108505475_hd.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1764102817988-138647507.mp4",
+          "filename": "1764102817988-138647507.mp4",
+          "size": 5038148
+        },
+        "materials": [
+          {
+            "originalName": "wallhaven-d6j79o.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1764102817998-46077309.png",
+            "filename": "1764102817998-46077309.png"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-11-25T20:33:38.015Z"
+  },
+  {
+    "courseId": 21,
+    "instructorId": 2,
+    "title": "Web Technologies",
+    "description": "learn web tech",
+    "price": 30,
+    "numberOfLectures": 3,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lecture 1",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765137771794-501042632.mp4",
+          "filename": "1765137771794-501042632.mp4",
+          "size": 1604718
+        },
+        "materials": [
+          {
+            "originalName": "screenshot-2025-11-29_23-27-22.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765137771800-890363769.png",
+            "filename": "1765137771800-890363769.png"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "lecture 2",
+        "video": {
+          "originalName": "siimipie_1764936119_3780880122560824404_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765137771801-26715207.mp4",
+          "filename": "1765137771801-26715207.mp4",
+          "size": 3243337
+        },
+        "materials": [
+          {
+            "originalName": "screenshot-2025-11-18_17-13-27.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765137771809-560181429.png",
+            "filename": "1765137771809-560181429.png"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 3,
+        "title": "lecture 3",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765137771810-515444045.mp4",
+          "filename": "1765137771810-515444045.mp4",
+          "size": 1604718
+        },
+        "materials": [
+          {
+            "originalName": "screenshot-2025-11-29_23-16-07.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765137771814-346755186.png",
+            "filename": "1765137771814-346755186.png"
+          },
+          {
+            "originalName": "screenshot-2025-11-29_23-16-32.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765137771814-349755706.png",
+            "filename": "1765137771814-349755706.png"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-12-07T20:02:51.833Z"
+  },
+  {
+    "courseId": 22,
+    "instructorId": 2,
+    "title": "Microprocessor",
+    "description": "micro",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "Lecture 1",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765138028336-270883592.mp4",
+          "filename": "1765138028336-270883592.mp4",
+          "size": 1604718
+        },
+        "materials": [
+          {
+            "originalName": "screenshot-2025-11-18_17-13-27.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765138028340-677665316.png",
+            "filename": "1765138028340-677665316.png"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-12-07T20:07:08.347Z"
+  },
+  {
+    "courseId": 23,
+    "instructorId": 3,
+    "title": "Database",
+    "description": "database",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lec 1",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765139221749-161948413.mp4",
+          "filename": "1765139221749-161948413.mp4",
+          "size": 1604718
+        },
+        "materials": [
+          {
+            "originalName": "screenshot-2025-11-18_17-12-41.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765139221754-219372002.png",
+            "filename": "1765139221754-219372002.png"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-12-07T20:27:01.760Z"
+  },
+  {
+    "courseId": 24,
+    "instructorId": 3,
+    "title": "db ",
+    "description": "db",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "dd asd ",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765139282176-492118552.mp4",
+          "filename": "1765139282176-492118552.mp4",
+          "size": 1604718
+        },
+        "materials": [],
+        "quizzes": []
+      }
+    ],
+    "createdAt": "2025-12-07T20:28:02.188Z"
+  },
+  {
+    "courseId": 25,
+    "instructorId": 4,
+    "title": "Data Structure",
+    "description": "fjaldkf fkadjf kldsfj ;aoiprklfjalskf dsjfklas kljdsfa",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lecture 1",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765139644253-221111199.mp4",
+          "filename": "1765139644253-221111199.mp4",
+          "size": 1604718
+        },
+        "materials": [],
+        "quizzes": []
+      }
+    ],
+    "createdAt": "2025-12-07T20:34:04.264Z"
+  },
+  {
+    "courseId": 26,
+    "instructorId": 4,
+    "title": "C programming",
+    "description": "dklfjafj dkfjalkf jdjksfjal",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "dsfaf dsfa",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765139716447-290623299.mp4",
+          "filename": "1765139716447-290623299.mp4",
+          "size": 1604718
+        },
+        "materials": [
+          {
+            "originalName": "screenshot-2025-11-29_23-16-07.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765139716456-884814577.png",
+            "filename": "1765139716456-884814577.png"
+          }
+        ],
+        "quizzes": []
+      }
+    ],
+    "createdAt": "2025-12-07T20:35:16.461Z"
+  },
+  {
+    "courseId": 27,
+    "instructorId": 4,
+    "title": "Literature",
+    "description": "adsjfa dsfjalfja",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lecture 1",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765140447805-936445112.mp4",
+          "filename": "1765140447805-936445112.mp4",
+          "size": 1604718
+        },
+        "materials": [
+          {
+            "originalName": "593994933_1293442199486722_3650094607633321443_n.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1765140447811-858924009.jpg",
+            "filename": "1765140447811-858924009.jpg"
+          }
+        ],
+        "quizzes": []
+      }
+    ],
+    "createdAt": "2025-12-07T20:47:27.819Z"
+  },
+  {
+    "courseId": 28,
+    "instructorId": 2,
+    "title": "Test Quiz Course",
+    "description": "A course to test quizzes",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "Test Lecture 1",
+        "video": {
+          "originalName": "1764063498275-252725432.mp4",
+          "mimeType": "application/octet-stream",
+          "storagePath": "/uploads/videos/1765140575943-635300099.mp4",
+          "filename": "1765140575943-635300099.mp4",
+          "size": 2078260
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "What is 2+2?",
+            "optionA": "3",
+            "optionB": "4",
+            "optionC": "5",
+            "optionD": "6",
+            "correctAnswer": "B"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-12-07T20:49:35.976Z"
+  },
+  {
+    "courseId": 29,
+    "instructorId": 2,
+    "title": "Test Quiz Course",
+    "description": "A course to test quizzes",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "Test Lecture 1",
+        "video": {
+          "originalName": "1764063498275-252725432.mp4",
+          "mimeType": "application/octet-stream",
+          "storagePath": "/uploads/videos/1765140590838-777208638.mp4",
+          "filename": "1765140590838-777208638.mp4",
+          "size": 2078260
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "What is 2+2?",
+            "optionA": "3",
+            "optionB": "4",
+            "optionC": "5",
+            "optionD": "6",
+            "correctAnswer": "B"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-12-07T20:49:50.845Z"
+  },
+  {
+    "courseId": 30,
+    "instructorId": 4,
+    "title": "Rizz",
+    "description": "djfa dasjfal",
+    "price": 1,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "dasfa ",
+        "video": {
+          "originalName": "siimipie_1764936119_3780880122560824404_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765140772405-114391635.mp4",
+          "filename": "1765140772405-114391635.mp4",
+          "size": 3243337
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "dsfa",
+            "optionA": "af",
+            "optionB": "fddasf",
+            "optionC": "dfsa",
+            "optionD": "df",
+            "correctAnswer": "D"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-12-07T20:52:52.421Z"
+  },
+  {
+    "courseId": 31,
+    "instructorId": 4,
+    "title": "diego simione haram ball",
+    "description": "djfal falsdjfalkf",
+    "price": 20,
+    "numberOfLectures": 2,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lecture 1",
+        "video": {
+          "originalName": "siimipie_1764936119_3780880122560824404_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765140906818-449226173.mp4",
+          "filename": "1765140906818-449226173.mp4",
+          "size": 3243337
+        },
+        "materials": [
+          {
+            "originalName": "screenshot-2025-11-18_17-13-27.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765140906827-445685161.png",
+            "filename": "1765140906827-445685161.png"
+          }
+        ],
+        "quizzes": [
+          {
+            "question": "dasf dasfasdf asdfasf",
+            "optionA": "fasf",
+            "optionB": "dsafas",
+            "optionC": "adfas",
+            "optionD": "asdfas",
+            "correctAnswer": "A"
+          },
+          {
+            "question": "dasfa",
+            "optionA": "asdf",
+            "optionB": "adsfas",
+            "optionC": "asdfas",
+            "optionD": "asdfas",
+            "correctAnswer": "A"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "asdfa asdfasdf",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765140906827-921693673.mp4",
+          "filename": "1765140906827-921693673.mp4",
+          "size": 1604718
+        },
+        "materials": [
+          {
+            "originalName": "screenshot-2025-11-29_23-16-07.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765140906830-297082524.png",
+            "filename": "1765140906830-297082524.png"
+          }
+        ],
+        "quizzes": [
+          {
+            "question": "dsfadsf",
+            "optionA": "e",
+            "optionB": "dsf",
+            "optionC": "32",
+            "optionD": "df",
+            "correctAnswer": "B"
+          },
+          {
+            "question": "dsafa",
+            "optionA": "af",
+            "optionB": "d",
+            "optionC": "df",
+            "optionD": "f",
+            "correctAnswer": "B"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-12-07T20:55:06.840Z"
+  },
+  {
+    "courseId": 32,
+    "instructorId": 3,
+    "title": "tgsdfgf",
+    "description": "dfa",
+    "price": 10,
+    "numberOfLectures": 2,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "fadsf",
+        "video": {
+          "originalName": "siimipie_1764936119_3780880122560824404_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765142659113-208235777.mp4",
+          "filename": "1765142659113-208235777.mp4",
+          "size": 3243337
+        },
+        "materials": [
+          {
+            "originalName": "2022331004-022PF53449.pdf",
+            "mimeType": "application/pdf",
+            "storagePath": "/uploads/materials/1765142659121-505826218.pdf",
+            "filename": "1765142659121-505826218.pdf"
+          }
+        ],
+        "quizzes": [
+          {
+            "question": "dfds",
+            "optionA": "3",
+            "optionB": "3",
+            "optionC": "2",
+            "optionD": "2",
+            "correctAnswer": "C"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "sdafa",
+        "video": {
+          "originalName": "videoplayback.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765142659122-291766762.mp4",
+          "filename": "1765142659122-291766762.mp4",
+          "size": 31
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "dsaf",
+            "optionA": "3",
+            "optionB": "3",
+            "optionC": "4",
+            "optionD": "3",
+            "correctAnswer": "C"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-12-07T21:24:19.128Z"
+  },
+  {
+    "courseId": 33,
+    "instructorId": 4,
+    "title": "kdsafsald;fk",
+    "description": "fsdflk",
+    "price": 10,
+    "numberOfLectures": 2,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lecture 1",
+        "video": {
+          "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765147792662-270498713.mp4",
+          "filename": "1765147792662-270498713.mp4",
+          "size": 1604718
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "a dkjfsal",
+            "optionA": "af",
+            "optionB": "dsfa",
+            "optionC": "dfa",
+            "optionD": "3",
+            "correctAnswer": "B"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "lecture 3",
+        "video": {
+          "originalName": "siimipie_1764936119_3780880122560824404_69770313028.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1765147792667-472726610.mp4",
+          "filename": "1765147792667-472726610.mp4",
+          "size": 3243337
+        },
+        "materials": [
+          {
+            "originalName": "screenshot-2025-11-18_17-02-33.png",
+            "mimeType": "image/png",
+            "storagePath": "/uploads/materials/1765147792674-67432425.png",
+            "filename": "1765147792674-67432425.png"
+          }
+        ],
+        "quizzes": [
+          {
+            "question": "adsfs",
+            "optionA": "erq",
+            "optionB": "er",
+            "optionC": "we",
+            "optionD": "ew",
+            "correctAnswer": "B"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-12-07T22:49:52.685Z"
+  },
+  {
+    "courseId": 34,
+    "instructorId": 2,
+    "title": "Operating system",
+    "description": "this course will teach students operating systems",
+    "price": 20,
+    "numberOfLectures": 2,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "Introduction to process",
+        "video": {
+          "originalName": "1764063498248-963049358.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772185552091-99739145.mp4",
+          "filename": "1772185552091-99739145.mp4",
+          "size": 196341
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "what's a process",
+            "optionA": "a",
+            "optionB": "b",
+            "optionC": "c",
+            "optionD": "d",
+            "correctAnswer": "B"
+          },
+          {
+            "question": "what's burst time",
+            "optionA": "a",
+            "optionB": "b",
+            "optionC": "c",
+            "optionD": "d",
+            "correctAnswer": "A"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "Deadlock",
+        "video": {
+          "originalName": "1764063498275-252725432.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772185552101-425426917.mp4",
+          "filename": "1772185552101-425426917.mp4",
+          "size": 478382
+        },
+        "materials": [
+          {
+            "originalName": "1764068505180-4232921.pdf",
+            "mimeType": "application/pdf",
+            "storagePath": "/uploads/materials/1772185552108-721728421.pdf",
+            "filename": "1772185552108-721728421.pdf"
+          }
+        ],
+        "quizzes": [
+          {
+            "question": "what's deadlock",
+            "optionA": "a",
+            "optionB": "b",
+            "optionC": "c",
+            "optionD": "d",
+            "correctAnswer": "C"
+          },
+          {
+            "question": "how to avoid deadlock",
+            "optionA": "a",
+            "optionB": "b",
+            "optionC": "c",
+            "optionD": "d",
+            "correctAnswer": "C"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-02-27T09:45:52.127Z"
+  }
+]

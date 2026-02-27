@@ -1,0 +1,24 @@
+{
+  "courseId": 24,
+  "instructorId": 3,
+  "title": "db ",
+  "description": "db",
+  "price": 10,
+  "numberOfLectures": 1,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "dd asd ",
+      "video": {
+        "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765139282176-492118552.mp4",
+        "filename": "1765139282176-492118552.mp4",
+        "size": 1604718
+      },
+      "materials": [],
+      "quizzes": []
+    }
+  ],
+  "createdAt": "2025-12-07T20:28:02.188Z"
+}

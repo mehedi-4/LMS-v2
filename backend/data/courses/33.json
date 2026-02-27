@@ -1,0 +1,62 @@
+{
+  "courseId": 33,
+  "instructorId": 4,
+  "title": "kdsafsald;fk",
+  "description": "fsdflk",
+  "price": 10,
+  "numberOfLectures": 2,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "lecture 1",
+      "video": {
+        "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765147792662-270498713.mp4",
+        "filename": "1765147792662-270498713.mp4",
+        "size": 1604718
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "a dkjfsal",
+          "optionA": "af",
+          "optionB": "dsfa",
+          "optionC": "dfa",
+          "optionD": "3",
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "lectureNumber": 2,
+      "title": "lecture 3",
+      "video": {
+        "originalName": "siimipie_1764936119_3780880122560824404_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765147792667-472726610.mp4",
+        "filename": "1765147792667-472726610.mp4",
+        "size": 3243337
+      },
+      "materials": [
+        {
+          "originalName": "screenshot-2025-11-18_17-02-33.png",
+          "mimeType": "image/png",
+          "storagePath": "/uploads/materials/1765147792674-67432425.png",
+          "filename": "1765147792674-67432425.png"
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "adsfs",
+          "optionA": "erq",
+          "optionB": "er",
+          "optionC": "we",
+          "optionD": "ew",
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2025-12-07T22:49:52.685Z"
+}

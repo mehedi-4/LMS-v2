@@ -1,0 +1,24 @@
+{
+  "courseId": 25,
+  "instructorId": 4,
+  "title": "Data Structure",
+  "description": "fjaldkf fkadjf kldsfj ;aoiprklfjalskf dsjfklas kljdsfa",
+  "price": 10,
+  "numberOfLectures": 1,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "lecture 1",
+      "video": {
+        "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765139644253-221111199.mp4",
+        "filename": "1765139644253-221111199.mp4",
+        "size": 1604718
+      },
+      "materials": [],
+      "quizzes": []
+    }
+  ],
+  "createdAt": "2025-12-07T20:34:04.264Z"
+}

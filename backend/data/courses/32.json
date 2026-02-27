@@ -1,0 +1,62 @@
+{
+  "courseId": 32,
+  "instructorId": 3,
+  "title": "tgsdfgf",
+  "description": "dfa",
+  "price": 10,
+  "numberOfLectures": 2,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "fadsf",
+      "video": {
+        "originalName": "siimipie_1764936119_3780880122560824404_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765142659113-208235777.mp4",
+        "filename": "1765142659113-208235777.mp4",
+        "size": 3243337
+      },
+      "materials": [
+        {
+          "originalName": "2022331004-022PF53449.pdf",
+          "mimeType": "application/pdf",
+          "storagePath": "/uploads/materials/1765142659121-505826218.pdf",
+          "filename": "1765142659121-505826218.pdf"
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "dfds",
+          "optionA": "3",
+          "optionB": "3",
+          "optionC": "2",
+          "optionD": "2",
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "lectureNumber": 2,
+      "title": "sdafa",
+      "video": {
+        "originalName": "videoplayback.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765142659122-291766762.mp4",
+        "filename": "1765142659122-291766762.mp4",
+        "size": 31
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "dsaf",
+          "optionA": "3",
+          "optionB": "3",
+          "optionC": "4",
+          "optionD": "3",
+          "correctAnswer": "C"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2025-12-07T21:24:19.128Z"
+}

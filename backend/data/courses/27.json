@@ -1,0 +1,31 @@
+{
+  "courseId": 27,
+  "instructorId": 4,
+  "title": "Literature",
+  "description": "adsjfa dsfjalfja",
+  "price": 10,
+  "numberOfLectures": 1,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "lecture 1",
+      "video": {
+        "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765140447805-936445112.mp4",
+        "filename": "1765140447805-936445112.mp4",
+        "size": 1604718
+      },
+      "materials": [
+        {
+          "originalName": "593994933_1293442199486722_3650094607633321443_n.jpg",
+          "mimeType": "image/jpeg",
+          "storagePath": "/uploads/materials/1765140447811-858924009.jpg",
+          "filename": "1765140447811-858924009.jpg"
+        }
+      ],
+      "quizzes": []
+    }
+  ],
+  "createdAt": "2025-12-07T20:47:27.819Z"
+}

@@ -1,0 +1,30 @@
+{
+  "courseId": 23,
+  "instructorId": 3,
+  "title": "Database",
+  "description": "database",
+  "price": 10,
+  "numberOfLectures": 1,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "lec 1",
+      "video": {
+        "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765139221749-161948413.mp4",
+        "filename": "1765139221749-161948413.mp4",
+        "size": 1604718
+      },
+      "materials": [
+        {
+          "originalName": "screenshot-2025-11-18_17-12-41.png",
+          "mimeType": "image/png",
+          "storagePath": "/uploads/materials/1765139221754-219372002.png",
+          "filename": "1765139221754-219372002.png"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2025-12-07T20:27:01.760Z"
+}

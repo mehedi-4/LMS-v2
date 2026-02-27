@@ -1,0 +1,85 @@
+{
+  "courseId": 31,
+  "instructorId": 4,
+  "title": "diego simione haram ball",
+  "description": "djfal falsdjfalkf",
+  "price": 20,
+  "numberOfLectures": 2,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "lecture 1",
+      "video": {
+        "originalName": "siimipie_1764936119_3780880122560824404_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765140906818-449226173.mp4",
+        "filename": "1765140906818-449226173.mp4",
+        "size": 3243337
+      },
+      "materials": [
+        {
+          "originalName": "screenshot-2025-11-18_17-13-27.png",
+          "mimeType": "image/png",
+          "storagePath": "/uploads/materials/1765140906827-445685161.png",
+          "filename": "1765140906827-445685161.png"
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "dasf dasfasdf asdfasf",
+          "optionA": "fasf",
+          "optionB": "dsafas",
+          "optionC": "adfas",
+          "optionD": "asdfas",
+          "correctAnswer": "A"
+        },
+        {
+          "question": "dasfa",
+          "optionA": "asdf",
+          "optionB": "adsfas",
+          "optionC": "asdfas",
+          "optionD": "asdfas",
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "lectureNumber": 2,
+      "title": "asdfa asdfasdf",
+      "video": {
+        "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765140906827-921693673.mp4",
+        "filename": "1765140906827-921693673.mp4",
+        "size": 1604718
+      },
+      "materials": [
+        {
+          "originalName": "screenshot-2025-11-29_23-16-07.png",
+          "mimeType": "image/png",
+          "storagePath": "/uploads/materials/1765140906830-297082524.png",
+          "filename": "1765140906830-297082524.png"
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "dsfadsf",
+          "optionA": "e",
+          "optionB": "dsf",
+          "optionC": "32",
+          "optionD": "df",
+          "correctAnswer": "B"
+        },
+        {
+          "question": "dsafa",
+          "optionA": "af",
+          "optionB": "d",
+          "optionC": "df",
+          "optionD": "f",
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2025-12-07T20:55:06.840Z"
+}

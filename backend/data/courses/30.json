@@ -1,0 +1,33 @@
+{
+  "courseId": 30,
+  "instructorId": 4,
+  "title": "Rizz",
+  "description": "djfa dasjfal",
+  "price": 1,
+  "numberOfLectures": 1,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "dasfa ",
+      "video": {
+        "originalName": "siimipie_1764936119_3780880122560824404_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765140772405-114391635.mp4",
+        "filename": "1765140772405-114391635.mp4",
+        "size": 3243337
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "dsfa",
+          "optionA": "af",
+          "optionB": "fddasf",
+          "optionC": "dfsa",
+          "optionD": "df",
+          "correctAnswer": "D"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2025-12-07T20:52:52.421Z"
+}

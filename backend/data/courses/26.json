@@ -1,0 +1,31 @@
+{
+  "courseId": 26,
+  "instructorId": 4,
+  "title": "C programming",
+  "description": "dklfjafj dkfjalkf jdjksfjal",
+  "price": 10,
+  "numberOfLectures": 1,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "dsfaf dsfa",
+      "video": {
+        "originalName": "siimipie_1764939282_3780906920304632416_69770313028.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1765139716447-290623299.mp4",
+        "filename": "1765139716447-290623299.mp4",
+        "size": 1604718
+      },
+      "materials": [
+        {
+          "originalName": "screenshot-2025-11-29_23-16-07.png",
+          "mimeType": "image/png",
+          "storagePath": "/uploads/materials/1765139716456-884814577.png",
+          "filename": "1765139716456-884814577.png"
+        }
+      ],
+      "quizzes": []
+    }
+  ],
+  "createdAt": "2025-12-07T20:35:16.461Z"
+}

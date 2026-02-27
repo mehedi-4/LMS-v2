@@ -1,0 +1,33 @@
+{
+  "courseId": 28,
+  "instructorId": 2,
+  "title": "Test Quiz Course",
+  "description": "A course to test quizzes",
+  "price": 10,
+  "numberOfLectures": 1,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "Test Lecture 1",
+      "video": {
+        "originalName": "1764063498275-252725432.mp4",
+        "mimeType": "application/octet-stream",
+        "storagePath": "/uploads/videos/1765140575943-635300099.mp4",
+        "filename": "1765140575943-635300099.mp4",
+        "size": 2078260
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "What is 2+2?",
+          "optionA": "3",
+          "optionB": "4",
+          "optionC": "5",
+          "optionD": "6",
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2025-12-07T20:49:35.976Z"
+}

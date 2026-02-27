@@ -1,0 +1,78 @@
+{
+  "courseId": 34,
+  "instructorId": 2,
+  "title": "Operating system",
+  "description": "this course will teach students operating systems",
+  "price": 20,
+  "numberOfLectures": 2,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "Introduction to process",
+      "video": {
+        "originalName": "1764063498248-963049358.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772185552091-99739145.mp4",
+        "filename": "1772185552091-99739145.mp4",
+        "size": 196341
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "what's a process",
+          "optionA": "a",
+          "optionB": "b",
+          "optionC": "c",
+          "optionD": "d",
+          "correctAnswer": "B"
+        },
+        {
+          "question": "what's burst time",
+          "optionA": "a",
+          "optionB": "b",
+          "optionC": "c",
+          "optionD": "d",
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "lectureNumber": 2,
+      "title": "Deadlock",
+      "video": {
+        "originalName": "1764063498275-252725432.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772185552101-425426917.mp4",
+        "filename": "1772185552101-425426917.mp4",
+        "size": 478382
+      },
+      "materials": [
+        {
+          "originalName": "1764068505180-4232921.pdf",
+          "mimeType": "application/pdf",
+          "storagePath": "/uploads/materials/1772185552108-721728421.pdf",
+          "filename": "1772185552108-721728421.pdf"
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "what's deadlock",
+          "optionA": "a",
+          "optionB": "b",
+          "optionC": "c",
+          "optionD": "d",
+          "correctAnswer": "C"
+        },
+        {
+          "question": "how to avoid deadlock",
+          "optionA": "a",
+          "optionB": "b",
+          "optionC": "c",
+          "optionD": "d",
+          "correctAnswer": "C"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-27T09:45:52.127Z"
+}
