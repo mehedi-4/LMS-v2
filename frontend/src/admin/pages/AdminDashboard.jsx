@@ -1,11 +1,25 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import Transactions from '../../instructor/pages/dashboard/Transactions'
+
+const STORAGE_KEY = 'adminAuth'
 
 export default function AdminDashboard() {
   const [username, setUsername] = useState('')
   const [password, setPassword] = useState('')
-  const [isAuthenticated, setIsAuthenticated] = useState(false)
+  const [isAuthenticated, setIsAuthenticated] = useState(() => {
+    const storedAuth = localStorage.getItem(STORAGE_KEY)
+    return storedAuth === 'true'
+  })
   const [error, setError] = useState('')
+
+  useEffect(() => {
+    if (isAuthenticated) {
+      localStorage.setItem(STORAGE_KEY, 'true')
+      return
+    }
+
+    localStorage.removeItem(STORAGE_KEY)
+  }, [isAuthenticated])
 
   const handleLogin = (event) => {
     event.preventDefault()
@@ -19,6 +33,13 @@ export default function AdminDashboard() {
     }
 
     setError('Invalid username or password')
+  }
+
+  const handleLogout = () => {
+    setIsAuthenticated(false)
+    setUsername('')
+    setPassword('')
+    setError('')
   }
 
   if (!isAuthenticated) {
@@ -113,6 +134,16 @@ export default function AdminDashboard() {
             <div className="absolute right-0 top-1/2 -translate-y-1/2 w-1 h-8 bg-white/20 rounded-l-full"></div>
           </button>
         </nav>
+
+        <div className="p-4 border-t border-slate-800">
+          <button
+            type="button"
+            onClick={handleLogout}
+            className="w-full flex items-center justify-center px-4 py-3.5 rounded-xl transition-all duration-200 bg-slate-800 hover:bg-slate-700 text-white font-bold"
+          >
+            Logout
+          </button>
+        </div>
       </div>
 
       <div className="flex-1 overflow-auto bg-slate-50">
