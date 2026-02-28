@@ -10,11 +10,10 @@ app.use(express.json());
 const bankDb = mysql.createPool({
   host: "localhost",
   user: "root",
-  password: "iammhe",       // your MySQL password
-  database: "bank",   // database where `users` table exists
+  password: "iammhe",      
+  database: "bank",  
 });
 
-// Initialize transactions table if it doesn't exist
 async function initializeTransactionsTable() {
   try {
     const connection = await bankDb.getConnection();
@@ -38,13 +37,8 @@ async function initializeTransactionsTable() {
   }
 }
 
-// Initialize on startup
 initializeTransactionsTable();
 
-// ===============================
-//   POST /bank-api/balance
-//   Get balance using account_no
-// ===============================
 app.post("/bank-api/balance", async (req, res) => {
   try {
     const { account_no } = req.body;
@@ -73,10 +67,7 @@ app.post("/bank-api/balance", async (req, res) => {
   }
 });
 
-// ===============================
-//   POST /bank-api/transfer
-//   Transfer money from student to LMS
-// ===============================
+
 app.post("/bank-api/transfer", async (req, res) => {
   const connection = await bankDb.getConnection();
   
@@ -104,7 +95,6 @@ app.post("/bank-api/transfer", async (req, res) => {
 
     const LMS_ACCOUNT = "9999999999999999";
 
-    // Verify student account and secret key
     const [studentRows] = await connection.execute(
       "SELECT balance FROM users WHERE account_no = ? AND secret_key = ?",
       [from_account_no, secret_key]
@@ -120,7 +110,6 @@ app.post("/bank-api/transfer", async (req, res) => {
 
     const studentBalance = parseFloat(studentRows[0].balance);
 
-    // Check if student has sufficient balance
     if (studentBalance < parsedAmount) {
       await connection.rollback();
       return res.status(400).json({ 
@@ -129,7 +118,6 @@ app.post("/bank-api/transfer", async (req, res) => {
       });
     }
 
-    // Verify LMS account exists
     const [lmsRows] = await connection.execute(
       "SELECT balance FROM users WHERE account_no = ?",
       [LMS_ACCOUNT]
@@ -186,10 +174,7 @@ app.post("/bank-api/transfer", async (req, res) => {
   }
 });
 
-// ===============================
-//   POST /bank-api/transfer-lms-to-instructor
-//   Transfer money from LMS to instructor account
-// ===============================
+
 app.post("/bank-api/transfer-lms-to-instructor", async (req, res) => {
   const connection = await bankDb.getConnection();
   
@@ -299,10 +284,7 @@ app.post("/bank-api/transfer-lms-to-instructor", async (req, res) => {
   }
 });
 
-// ===============================
-//   GET /bank-api/transactions/:account_no
-//   Get all transactions for an account
-// ===============================
+
 app.get("/bank-api/transactions/:account_no", async (req, res) => {
   try {
     const { account_no } = req.params;

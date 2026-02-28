@@ -1,0 +1,33 @@
+{
+  "courseId": 36,
+  "instructorId": 4,
+  "title": "TEST UPLOAD",
+  "description": "test upload",
+  "price": 10,
+  "numberOfLectures": 1,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "lecture 1",
+      "video": {
+        "originalName": "1764063920002-507857887.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772221454151-129358366.mp4",
+        "filename": "1772221454151-129358366.mp4",
+        "size": 358631
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "question",
+          "optionA": "a",
+          "optionB": "b",
+          "optionC": "c",
+          "optionD": "d",
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-27T19:44:14.174Z"
+}

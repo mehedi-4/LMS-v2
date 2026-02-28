@@ -97,6 +97,7 @@ export default function UploadCourse({ user }) {
     if (file) {
       handleLectureChange('video', file)
     }
+    e.target.value = ''
   }
 
   const handleRemoveMaterial = (indexToRemove) => {
@@ -144,13 +145,6 @@ export default function UploadCourse({ user }) {
     }
     if (currentLecture < lectures.length - 1) {
       setCurrentLecture(currentLecture + 1)
-      resetBanner()
-    }
-  }
-
-  const handlePreviousLecture = () => {
-    if (currentLecture > 0) {
-      setCurrentLecture(currentLecture - 1)
       resetBanner()
     }
   }
@@ -253,30 +247,6 @@ export default function UploadCourse({ user }) {
             <h2 className="text-3xl font-bold text-slate-900">Upload Course</h2>
           </div>
         </div>
-
-        {/* <div className="mb-10 relative">
-          <div className="absolute top-1/2 left-0 w-full h-1 bg-slate-100 -translate-y-1/2 rounded-full"></div>
-          <div className={`absolute top-1/2 left-0 h-1 bg-amber-500 -translate-y-1/2 rounded-full transition-all duration-500 ${step === 1 ? 'w-1/2' : 'w-full'}`}></div>
-          
-          <div className="relative flex justify-between">
-            <div className="flex flex-col items-center">
-              <div className={`w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg transition-all duration-300 ${
-                step >= 1 ? 'bg-amber-500 text-white shadow-lg shadow-amber-500/30 scale-110' : 'bg-slate-200 text-slate-500'
-              }`}>
-                1
-              </div>
-              <span className={`mt-2 text-sm font-bold ${step >= 1 ? 'text-slate-900' : 'text-slate-400'}`}>Course Details</span>
-            </div>
-            <div className="flex flex-col items-center">
-              <div className={`w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg transition-all duration-300 ${
-                step >= 2 ? 'bg-amber-500 text-white shadow-lg shadow-amber-500/30 scale-110' : 'bg-slate-200 text-slate-500'
-              }`}>
-                2
-              </div>
-              <span className={`mt-2 text-sm font-bold ${step >= 2 ? 'text-slate-900' : 'text-slate-400'}`}>Upload Lectures</span>
-            </div>
-          </div>
-        </div> */}
 
         {step === 1 && (
           <form onSubmit={handleStep1Submit} className="space-y-6 animate-fadeIn">
@@ -560,15 +530,6 @@ export default function UploadCourse({ user }) {
             )}
 
             <div className="flex gap-4 pt-4">
-              <button
-                type="button"
-                onClick={handlePreviousLecture}
-                disabled={currentLecture === 0}
-                className="flex-1 bg-slate-200 text-slate-700 py-3.5 rounded-xl hover:bg-slate-300 transition font-bold disabled:opacity-50 disabled:cursor-not-allowed"
-              >
-                Previous
-              </button>
-
               {currentLecture < lectures.length - 1 ? (
                 <button
                   type="button"

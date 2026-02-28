@@ -1,0 +1,108 @@
+{
+  "courseId": 37,
+  "instructorId": 4,
+  "title": "TEST 3",
+  "description": "test 3",
+  "price": 30,
+  "numberOfLectures": 3,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "lecture 1",
+      "video": {
+        "originalName": "1764064459685-655462009.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772221660099-476380871.mp4",
+        "filename": "1772221660099-476380871.mp4",
+        "size": 632661
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "question",
+          "optionA": "a ",
+          "optionB": "b",
+          "optionC": "c",
+          "optionD": "d",
+          "correctAnswer": "C"
+        },
+        {
+          "question": "xyz",
+          "optionA": "x",
+          "optionB": "y",
+          "optionC": "z",
+          "optionD": "w",
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "lectureNumber": 2,
+      "title": "lecture 2",
+      "video": {
+        "originalName": "1764063920002-507857887.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772221660115-855060400.mp4",
+        "filename": "1772221660115-855060400.mp4",
+        "size": 358631
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "pqr",
+          "optionA": "q",
+          "optionB": "p",
+          "optionC": "r",
+          "optionD": "s",
+          "correctAnswer": "B"
+        },
+        {
+          "question": "wxy",
+          "optionA": "w",
+          "optionB": "x",
+          "optionC": "y",
+          "optionD": "z",
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "lectureNumber": 3,
+      "title": "lecture 3",
+      "video": {
+        "originalName": "1764064459685-655462009.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772221660125-451471783.mp4",
+        "filename": "1772221660125-451471783.mp4",
+        "size": 632661
+      },
+      "materials": [
+        {
+          "originalName": "1772185552108-721728421.pdf",
+          "mimeType": "application/pdf",
+          "storagePath": "/uploads/materials/1772221660130-107215964.pdf",
+          "filename": "1772221660130-107215964.pdf"
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "ok?",
+          "optionA": "j",
+          "optionB": "i",
+          "optionC": "k",
+          "optionD": "l",
+          "correctAnswer": "A"
+        },
+        {
+          "question": "not ok",
+          "optionA": "a",
+          "optionB": "b",
+          "optionC": "c",
+          "optionD": "d",
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-27T19:47:40.143Z"
+}

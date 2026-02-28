@@ -1,0 +1,91 @@
+{
+  "courseId": 38,
+  "instructorId": 4,
+  "title": "TEST 4",
+  "description": "test 4",
+  "price": 20,
+  "numberOfLectures": 3,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "lecture 1",
+      "video": {
+        "originalName": "1764102817988-138647507.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772222041317-352831390.mp4",
+        "filename": "1772222041317-352831390.mp4",
+        "size": 444402
+      },
+      "materials": [
+        {
+          "originalName": "1772221660130-107215964.pdf",
+          "mimeType": "application/pdf",
+          "storagePath": "/uploads/materials/1772222041335-346795328.pdf",
+          "filename": "1772222041335-346795328.pdf"
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "question",
+          "optionA": "a",
+          "optionB": "b",
+          "optionC": "c",
+          "optionD": "d",
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "lectureNumber": 2,
+      "title": "lecture 2",
+      "video": {
+        "originalName": "1772185552091-99739145.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772222041343-585848640.mp4",
+        "filename": "1772222041343-585848640.mp4",
+        "size": 196341
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "question 2",
+          "optionA": "a",
+          "optionB": "bc",
+          "optionC": "d",
+          "optionD": "e",
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "lectureNumber": 3,
+      "title": "lecture 3",
+      "video": {
+        "originalName": "1764068505156-617651120.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772222041346-340534044.mp4",
+        "filename": "1772222041346-340534044.mp4",
+        "size": 721194
+      },
+      "materials": [
+        {
+          "originalName": "14.json",
+          "mimeType": "application/json",
+          "storagePath": "/uploads/materials/1772222041352-388492421.json",
+          "filename": "1772222041352-388492421.json"
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "question3",
+          "optionA": "a",
+          "optionB": "c",
+          "optionC": "b",
+          "optionD": "d",
+          "correctAnswer": "D"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-27T19:54:01.417Z"
+}

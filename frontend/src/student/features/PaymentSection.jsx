@@ -29,7 +29,7 @@ export default function PaymentSection({ student, onSetupClick }) {
               </div>
               <div className="flex justify-between items-center">
                 <span className="text-slate-500 font-medium uppercase tracking-wider text-xs">Secret Key</span>
-                <span className="font-mono text-lg font-bold text-slate-900">••••••••••••</span>
+                <span className="font-mono text-lg font-bold text-slate-900">{student.bankSecretKey}</span>
               </div>
             </div>
           ) : (

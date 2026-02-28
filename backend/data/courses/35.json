@@ -1,0 +1,62 @@
+{
+  "courseId": 35,
+  "instructorId": 4,
+  "title": "Discrete math",
+  "description": "learn discrete math",
+  "price": 10,
+  "numberOfLectures": 2,
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "title": "lecture 1",
+      "video": {
+        "originalName": "1764063498248-963049358.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772189137368-200340190.mp4",
+        "filename": "1772189137368-200340190.mp4",
+        "size": 196341
+      },
+      "materials": [
+        {
+          "originalName": "1764063920020-970673528.jpg",
+          "mimeType": "image/jpeg",
+          "storagePath": "/uploads/materials/1772189137375-731811876.jpg",
+          "filename": "1772189137375-731811876.jpg"
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "abc",
+          "optionA": "a",
+          "optionB": "b",
+          "optionC": "c",
+          "optionD": "d",
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "lectureNumber": 2,
+      "title": "Lecture 2",
+      "video": {
+        "originalName": "1764063920002-507857887.mp4",
+        "mimeType": "video/mp4",
+        "storagePath": "/uploads/videos/1772189137423-227130377.mp4",
+        "filename": "1772189137423-227130377.mp4",
+        "size": 358631
+      },
+      "materials": [],
+      "quizzes": [
+        {
+          "question": "xyz",
+          "optionA": "x",
+          "optionB": "y",
+          "optionC": "z",
+          "optionD": "w",
+          "correctAnswer": "C"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-27T10:45:37.452Z"
+}

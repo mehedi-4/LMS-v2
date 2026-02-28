@@ -1008,5 +1008,299 @@
       }
     ],
     "createdAt": "2026-02-27T09:45:52.127Z"
+  },
+  {
+    "courseId": 35,
+    "instructorId": 4,
+    "title": "Discrete math",
+    "description": "learn discrete math",
+    "price": 10,
+    "numberOfLectures": 2,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lecture 1",
+        "video": {
+          "originalName": "1764063498248-963049358.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772189137368-200340190.mp4",
+          "filename": "1772189137368-200340190.mp4",
+          "size": 196341
+        },
+        "materials": [
+          {
+            "originalName": "1764063920020-970673528.jpg",
+            "mimeType": "image/jpeg",
+            "storagePath": "/uploads/materials/1772189137375-731811876.jpg",
+            "filename": "1772189137375-731811876.jpg"
+          }
+        ],
+        "quizzes": [
+          {
+            "question": "abc",
+            "optionA": "a",
+            "optionB": "b",
+            "optionC": "c",
+            "optionD": "d",
+            "correctAnswer": "C"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "Lecture 2",
+        "video": {
+          "originalName": "1764063920002-507857887.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772189137423-227130377.mp4",
+          "filename": "1772189137423-227130377.mp4",
+          "size": 358631
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "xyz",
+            "optionA": "x",
+            "optionB": "y",
+            "optionC": "z",
+            "optionD": "w",
+            "correctAnswer": "C"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-02-27T10:45:37.452Z"
+  },
+  {
+    "courseId": 36,
+    "instructorId": 4,
+    "title": "TEST UPLOAD",
+    "description": "test upload",
+    "price": 10,
+    "numberOfLectures": 1,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lecture 1",
+        "video": {
+          "originalName": "1764063920002-507857887.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772221454151-129358366.mp4",
+          "filename": "1772221454151-129358366.mp4",
+          "size": 358631
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "question",
+            "optionA": "a",
+            "optionB": "b",
+            "optionC": "c",
+            "optionD": "d",
+            "correctAnswer": "A"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-02-27T19:44:14.174Z"
+  },
+  {
+    "courseId": 37,
+    "instructorId": 4,
+    "title": "TEST 3",
+    "description": "test 3",
+    "price": 30,
+    "numberOfLectures": 3,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lecture 1",
+        "video": {
+          "originalName": "1764064459685-655462009.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772221660099-476380871.mp4",
+          "filename": "1772221660099-476380871.mp4",
+          "size": 632661
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "question",
+            "optionA": "a ",
+            "optionB": "b",
+            "optionC": "c",
+            "optionD": "d",
+            "correctAnswer": "C"
+          },
+          {
+            "question": "xyz",
+            "optionA": "x",
+            "optionB": "y",
+            "optionC": "z",
+            "optionD": "w",
+            "correctAnswer": "D"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "lecture 2",
+        "video": {
+          "originalName": "1764063920002-507857887.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772221660115-855060400.mp4",
+          "filename": "1772221660115-855060400.mp4",
+          "size": 358631
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "pqr",
+            "optionA": "q",
+            "optionB": "p",
+            "optionC": "r",
+            "optionD": "s",
+            "correctAnswer": "B"
+          },
+          {
+            "question": "wxy",
+            "optionA": "w",
+            "optionB": "x",
+            "optionC": "y",
+            "optionD": "z",
+            "correctAnswer": "B"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 3,
+        "title": "lecture 3",
+        "video": {
+          "originalName": "1764064459685-655462009.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772221660125-451471783.mp4",
+          "filename": "1772221660125-451471783.mp4",
+          "size": 632661
+        },
+        "materials": [
+          {
+            "originalName": "1772185552108-721728421.pdf",
+            "mimeType": "application/pdf",
+            "storagePath": "/uploads/materials/1772221660130-107215964.pdf",
+            "filename": "1772221660130-107215964.pdf"
+          }
+        ],
+        "quizzes": [
+          {
+            "question": "ok?",
+            "optionA": "j",
+            "optionB": "i",
+            "optionC": "k",
+            "optionD": "l",
+            "correctAnswer": "A"
+          },
+          {
+            "question": "not ok",
+            "optionA": "a",
+            "optionB": "b",
+            "optionC": "c",
+            "optionD": "d",
+            "correctAnswer": "B"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-02-27T19:47:40.143Z"
+  },
+  {
+    "courseId": 38,
+    "instructorId": 4,
+    "title": "TEST 4",
+    "description": "test 4",
+    "price": 20,
+    "numberOfLectures": 3,
+    "lectures": [
+      {
+        "lectureNumber": 1,
+        "title": "lecture 1",
+        "video": {
+          "originalName": "1764102817988-138647507.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772222041317-352831390.mp4",
+          "filename": "1772222041317-352831390.mp4",
+          "size": 444402
+        },
+        "materials": [
+          {
+            "originalName": "1772221660130-107215964.pdf",
+            "mimeType": "application/pdf",
+            "storagePath": "/uploads/materials/1772222041335-346795328.pdf",
+            "filename": "1772222041335-346795328.pdf"
+          }
+        ],
+        "quizzes": [
+          {
+            "question": "question",
+            "optionA": "a",
+            "optionB": "b",
+            "optionC": "c",
+            "optionD": "d",
+            "correctAnswer": "B"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 2,
+        "title": "lecture 2",
+        "video": {
+          "originalName": "1772185552091-99739145.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772222041343-585848640.mp4",
+          "filename": "1772222041343-585848640.mp4",
+          "size": 196341
+        },
+        "materials": [],
+        "quizzes": [
+          {
+            "question": "question 2",
+            "optionA": "a",
+            "optionB": "bc",
+            "optionC": "d",
+            "optionD": "e",
+            "correctAnswer": "A"
+          }
+        ]
+      },
+      {
+        "lectureNumber": 3,
+        "title": "lecture 3",
+        "video": {
+          "originalName": "1764068505156-617651120.mp4",
+          "mimeType": "video/mp4",
+          "storagePath": "/uploads/videos/1772222041346-340534044.mp4",
+          "filename": "1772222041346-340534044.mp4",
+          "size": 721194
+        },
+        "materials": [
+          {
+            "originalName": "14.json",
+            "mimeType": "application/json",
+            "storagePath": "/uploads/materials/1772222041352-388492421.json",
+            "filename": "1772222041352-388492421.json"
+          }
+        ],
+        "quizzes": [
+          {
+            "question": "question3",
+            "optionA": "a",
+            "optionB": "c",
+            "optionC": "b",
+            "optionD": "d",
+            "correctAnswer": "D"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-02-27T19:54:01.417Z"
   }
 ]
